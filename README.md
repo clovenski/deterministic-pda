@@ -11,6 +11,7 @@ Notes:
 + the period character represents:
   + lambda; an empty string (in the context of the user describing the PDA)
   + or the sentinel value used to indicate the user has entered all of the characters of the string to test
++ the dollar symbol is used to represent the bottom of the stack
 
 Accepting a string:
 
