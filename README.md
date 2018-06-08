@@ -14,8 +14,8 @@ Notes:
 
 Accepting a string:
 
-![alt text](example/string_accepted.png)
+![alt text](example/string_accepted.PNG)
 
 Rejecting a string:
 
-![alt text](example/string_rejected.png)
+![alt text](example/string_rejected.PNG)
